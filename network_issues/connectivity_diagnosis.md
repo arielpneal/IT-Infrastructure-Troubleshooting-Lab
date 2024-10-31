@@ -19,27 +19,6 @@ Network connectivity issues occur when devices cannot establish or maintain a co
    - Ensure network cables are securely connected.
    - Test cables and ports with a known working device.
 
-# Network Connectivity Diagnosis
-
-### Description
-Network connectivity issues occur when devices cannot establish or maintain a connection to the network, affecting access to resources and communication within the network.
-
-### Symptoms
-- No network access or “Limited Connectivity” messages.
-- Dropped or intermittent connections.
-- Slow network responses and timeout errors.
-
-### Possible Causes
-- Physical connection issues (e.g., loose cables, damaged ports).
-- IP conflicts within the network.
-- Incorrect IP or DNS configurations.
-- Network device issues, such as routers or switches.
-
-### Resolution Steps
-1. **Check Physical Connections**
-   - Ensure network cables are securely connected.
-   - Test cables and ports with a known working device.
-
 2. **Verify IP Configuration**
    - Check if the device has a valid IP address:
      - Windows: `ipconfig`
